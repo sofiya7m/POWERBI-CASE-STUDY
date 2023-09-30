@@ -1,0 +1,28 @@
+Airport_Name, Airport_Code, Month, Year, Total_Passengers, On_Time_Departures, On_Time_Arrivals, Total_Baggage_Handled, Total_Revenue (in Rupees)
+Indira Gandhi International Airport, DEL, January,2023,125000,85%,88%,75000,75000000
+Indira Gandhi International Airport, DEL, February,2023,120000,88%,90%,72000,76000000
+Indira Gandhi International Airport, DEL, March,2023,130000,82%,87%,78000,78000000
+Chhatrapati Shivaji Maharaj International Airport, MUM, January,2023,110000,90%,92%,66000,68000000
+Chhatrapati Shivaji Maharaj International Airport, MUM, February,2023,115000,87%,91%,69000,71000000
+Chhatrapati Shivaji Maharaj International Airport, MUM, March,2023,118000,89%,93%,71000,73000000
+Chhatrapati Shivaji International Airport, BOM, January,2023,105000,88%,91%,63000,65000000
+Chhatrapati Shivaji International Airport, BOM, February,2023,108000,86%,90%,65000,67000000
+Chhatrapati Shivaji International Airport, BOM, March,2023,112000,90%,92%,67000,69000000
+Netaji Subhas Chandra Bose International Airport, CCU, January,2023,95000,85%,88%,57000,59000000
+Netaji Subhas Chandra Bose International Airport, CCU, February,2023,98000,87%,89%,59000,61000000
+Netaji Subhas Chandra Bose International Airport, CCU, March,2023,102000,89%,91%,61000,63000000
+Rajiv Gandhi International Airport, HYD, January,2023,88000,90%,93%,53000,55000000
+Rajiv Gandhi International Airport, HYD, February,2023,90000,88%,92%,54000,56000000
+Rajiv Gandhi International Airport, HYD, March,2023,92000,92%,94%,55000,58000000
+Kempegowda International Airport, BLR, January,2023,100000,84%,87%,60000,62000000
+Kempegowda International Airport, BLR, February,2023,105000,86%,89%,63000,66000000
+Kempegowda International Airport, BLR, March,2023,110000,88%,90%,66000,69000000
+Anna International Airport, MAA, January,2023,92000,82%,85%,55000,57000000
+Anna International Airport, MAA, February,2023,94000,84%,87%,56000,59000000
+Anna International Airport, MAA, March,2023,96000,86%,88%,57000,61000000
+Sardar Vallabhbhai Patel International Airport, AMD, January,2023,82000,80%,83%,49000,51000000
+Sardar Vallabhbhai Patel International Airport, AMD, February,2023,85000,82%,85%,51000,54000000
+Sardar Vallabhbhai Patel International Airport, AMD, March,2023,88000,84%,87%,53000,56000000
+GMR Hyderabad International Airport, HYD, January,2023,87000,89%,91%,52000,54000000
+GMR Hyderabad International Airport, HYD, February,2023,90000,91%,93%,54000,57000000
+GMR Hyderabad International Airport, HYD, March,2023,92000,92%,94%,55000,59000000
